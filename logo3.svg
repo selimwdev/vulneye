@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <!-- Background transparent -->
+  <rect width="100%" height="100%" fill="white"></rect>
+
+  <!-- Eye Icon (مركزي فوق) -->
+  <ellipse cx="75" cy="70" rx="50" ry="30" fill="none" stroke="#0A2A66" stroke-width="4"></ellipse>
+  <circle cx="75" cy="70" r="15" fill="#D72638"></circle>
+  <circle cx="75" cy="70" r="7" fill="white"></circle>
+
+  <!-- Text (تحت الايقونة) -->
+  <text x="75" y="150" font-family="Arial Black, sans-serif" font-size="36" text-anchor="middle" fill="#0A2A66">
+    Vuln<tspan fill="#D72638">Eye</tspan>
+  </text>
+</svg>

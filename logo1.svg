@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="600" viewBox="0 0 512 600">
+  <!-- Shield shape -->
+  <path d="M256 48c-6.6 0-13.1 1-19.2 3.1L140 88c-18.2 6.9-32 24.8-32 44.7v114.6c0 82.4 52.1 158.9 124.8 184.9 10.2 3.3 21.3 3.3 31.5 0C355.9 406.2 408 329.7 408 247.3V132.7c0-19.9-13.8-37.8-32-44.7l-96.8-36.9C269.1 49 262.6 48 256 48z" fill="#0F1724"></path>
+  <!-- Inner shield highlight -->
+  <path d="M256 72l84 32c8.3 3.2 14 11 14 19.5v114.6c0 63.8-39.7 123.1-96.6 143.2-6.1 2-12.5 2-18.6 0C207.7 361.2 168 301.9 168 238.1V123.5c0-8.5 5.7-16.3 14-19.5l84-32z" fill="#152238"></path>
+  <!-- Eye outer -->
+  <ellipse cx="256" cy="220" rx="120" ry="70" fill="#0B1220"></ellipse>
+  <!-- Eye middle (sclera) -->
+  <ellipse cx="256" cy="220" rx="92" ry="52" fill="#F4F7FA"></ellipse>
+  <!-- Iris -->
+  <circle cx="256" cy="220" r="28" fill="#0B1220"></circle>
+  <!-- Pupil / radar dot -->
+  <circle cx="272" cy="212" r="8" fill="#FF4D4D"></circle>
+  <!-- Reticle lines -->
+  <g stroke="#FF4D4D" stroke-width="2" stroke-linecap="round" opacity="0.9">
+    <path d="M256 188v-18"></path>
+    <path d="M256 252v18"></path>
+    <path d="M224 220h-18"></path>
+    <path d="M288 220h18"></path>
+  </g>
+  <!-- Subtle outer glow -->
+  <ellipse cx="256" cy="220" rx="160" ry="96" fill="none" stroke="#0B3550" stroke-width="2" opacity="0.18"></ellipse>
+
+  <!-- Text VulnEye -->
+  <text x="50%" y="560" font-family="Montserrat, Arial, sans-serif" font-size="64" text-anchor="middle" font-weight="600">
+    <tspan fill="#0F1724">Vuln</tspan><tspan fill="#FF4D4D">Eye</tspan>
+  </text>
+</svg>

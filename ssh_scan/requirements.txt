@@ -1,0 +1,3 @@
+Flask==2.2.5
+xmltodict==0.13.0
+asyncssh==2.13.0
