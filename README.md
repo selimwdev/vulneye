@@ -1,4 +1,4 @@
-# Vulneye framework — Automated Network Security Scanner 
+# Vulneye framework V1.0 — Automated Network Security Scanner 
 
 # Manual Installation and Run Guide
 
