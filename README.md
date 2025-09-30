@@ -1,8 +1,29 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed6abf32-7e21-4bdd-862c-cc757ad3a7b8" alt="logo4"/>
+  <img src="https://github.com/user-attachments/assets/ed6abf32-7e21-4bdd-862c-cc757ad3a7b8" alt="Vulneye Logo" width="220"/>
 </p>
 
-# Vulneye framework V1.0 — Automated Network Security Scanner 
+# Vulneye Framework v1.0 — Automated Network Security Scanner  
+
+**Vulneye** is a powerful security automation framework that combines a **Laravel Web UI**, **Python-based scanning pipeline**, and **Nmap integration**.  
+It enables scalable, automated, and extensible network security assessments — from **port & service discovery → vulnerability checks → application analysis → reporting**.  
+
+---
+
+## ✨ Key Features
+- Modern **Web Interface** for managing targets, workflows, and reports.  
+- **Python-driven pipeline** with modular and extensible design.  
+- Integrated **Nmap scanning**, enumeration, and service detection.  
+- **Queue/Worker system** for reliable background execution.  
+- Exportable **PDF/HTML reports**.  
+- Extensible with custom scanners, rules, or integrations.  
+
+---
+
+## ⚠️ Legal Disclaimer
+Use Vulneye **only** on systems you own or are explicitly authorized to test.  
+Unauthorized use against third-party systems may be illegal. The authors assume no responsibility for misuse.  
+
+---
 
 # Manual Installation and Run Guide
 
