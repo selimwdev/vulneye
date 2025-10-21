@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ed6abf32-7e21-4bdd-862c-cc757ad3a7b8" alt="Vulneye Logo" width="520"/>
 </p>
 
-# Vulneye Framework v1.0 — Automated Network Security Scanner  
+# Vulneye Framework v1.0 - Automated Network Security Scanner  
 
 **Vulneye** is a powerful security automation framework that combines a **Laravel Web UI**, **Python-based scanning pipeline**, and **Nmap integration**.  
 It enables scalable, automated, and extensible network security assessments — from **port & service discovery → vulnerability checks → application analysis → reporting**.  
