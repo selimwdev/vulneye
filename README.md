@@ -8,7 +8,7 @@ It enables scalable, automated, and extensible network security assessments — 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - Modern **Web Interface** for managing targets, workflows, and reports.  
 - **Python-driven pipeline** with modular and extensible design.  
 - Integrated **Nmap scanning**, enumeration, and service detection.  
@@ -18,7 +18,7 @@ It enables scalable, automated, and extensible network security assessments — 
 
 ---
 
-## ⚠️ Legal Disclaimer
+##  Legal Disclaimer
 Use Vulneye **only** on systems you own or are explicitly authorized to test.  
 Unauthorized use against third-party systems may be illegal. The authors assume no responsibility for misuse.  
 
@@ -245,4 +245,4 @@ After you start the Laravel app and open `http://127.0.0.1:8000`, follow these s
 
 ---
 
-✅ The environment should now be fully set up: Laravel app running, Python apps running, and queues active. Follow the Web UI steps above to perform network scans and generate reports.
+The environment should now be fully set up: Laravel app running, Python apps running, and queues active. Follow the Web UI steps above to perform network scans and generate reports.
