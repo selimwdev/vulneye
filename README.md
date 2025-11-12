@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ed6abf32-7e21-4bdd-862c-cc757ad3a7b8" alt="Vulneye Logo" width="520"/>
-</p>
+
+<img width="2000" height="600" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/a1ef6741-3746-43f3-bf78-94090c095474" />
 
 # Vulneye Framework v1.0 - Automated Network Security Scanner  
 
